@@ -1,0 +1,9 @@
+{
+  "name": "menu-castanu",
+  "version": "1.0.0",
+  "description": "Generador de menús especiales de El Rincón del Castañu (Instagram retrato, story y A5 PDF)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
